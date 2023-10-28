@@ -1,0 +1,24 @@
+One of the most active areas in facial technology is facial
+features such as age, gender and emotion recognition.
+A lot of research has been done using deep learning
+methods such as ANN, CNN to determine age, gender estimation
+and emotion detection. Human Facial expression depicts
+human feelings. Human tends to change feelings, perhaps
+due to their mental or health conditions, in the course
+of lifespan. Although people are brimming with various
+feelings, modern psychology characterizes six basic facial
+expressions: happiness, sadness, surprise, fear, disgust and
+anger as widespread feelings. Facial muscles exercise to assist
+with perceiving individual’s feelings. Fundamental facial
+consideration features are eyebrows, mouth, nose and eyes.
+An architecture based on the convolution Neural network
+(CNN) proposed here for age, gender and emotion classification.
+This is one of the well known deep artificial neural networks.
+Convolutional Neural Network based design models
+are broadly utilized in classification task because of their remarkable
+execution in facial investigation and emotion detection.
+The Convolutional Neural Network includes Feature
+extraction which extracts Features corresponding to age,
+gender, emotion. Furthermore CNN includes Feature classification
+which classifies facial images into the correct age
+group, gender and emotion such as happy, sad, angry, neutral.
